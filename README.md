@@ -37,11 +37,11 @@ python3 hash_cracker.py
 ## ⚡ Usage
 
 Basic command:
-
+```bash
 python3 hashcracker.py
 Enter the hash: <hash>
 Enter the path to the wordlist file: </path/to/wordlist>
-
+```
 Example:
 
 ```bash

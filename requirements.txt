@@ -1,0 +1,2 @@
+# Standard libraries only, no external dependencies required
+Current tool uses only Python’s built-in libraries (`hashlib`, `argparse`), so technically no need for external dependencies.
